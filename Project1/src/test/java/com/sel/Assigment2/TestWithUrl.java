@@ -10,7 +10,9 @@ public class TestWithUrl {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com");
        // Thread.sleep(5000);
-        // we can use
+        // Or we can use this as well
+        String title = driver.getTitle();
+        System.out.println(title);
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.close();
     }

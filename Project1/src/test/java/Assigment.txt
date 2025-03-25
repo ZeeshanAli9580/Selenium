@@ -13,5 +13,24 @@ Convert the following Test Cases into Test Scripts:
 4. TC-4 get the title of page into console
 5. TC-5 close the browser
 
+Assignment  3
+
+Tasks To Be Performed:
+Convert the following Test Cases into Test Scripts:
+1. TC-1 launch Firefox browser
+2. TC-2 go to test URL https://www.google.com
+3. TC-3 specify wait time for 5 sec
+4. TC-4 get the title of page into console
+5. TC-5 close the browser
+
+Assignment  4
+
+Tasks To Be Performed:
+Convert the following Test Cases into Test Scripts:
+1. TC-1 launch Internet Explorer browser
+2. TC-2 go to test URL https://www.google.com
+3. TC-3 specify wait time for 5 sec
+4. TC-4 get the title of page into console
+5. TC-5 close the browser
 
 
