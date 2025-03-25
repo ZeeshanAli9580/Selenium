@@ -1,4 +1,4 @@
-package com.sel.Assigment4;
+package com.sel.WebDriverAutomation.Assigment4;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;

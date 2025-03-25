@@ -1,4 +1,4 @@
-package com.sel.Assigment2;
+package com.sel.WebDriverAutomation.Assigment2;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
