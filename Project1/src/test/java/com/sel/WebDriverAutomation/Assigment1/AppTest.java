@@ -1,4 +1,4 @@
-package com.sel.Project1;
+package com.sel.WebDriverAutomation.Assigment1;
 
 /**
  * Unit test for simple App.

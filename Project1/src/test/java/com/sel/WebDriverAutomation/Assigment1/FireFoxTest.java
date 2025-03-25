@@ -1,4 +1,4 @@
-package com.sel.Project1;
+package com.sel.WebDriverAutomation.Assigment1;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
