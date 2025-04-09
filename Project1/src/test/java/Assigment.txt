@@ -60,12 +60,7 @@ Module 4: Assignment - 2
 
 Tasks To Be Performed:
 1. Automate
-Oracle
-Registration
-Page
-in
-Chrome
-Browser
+Oracl Registration Page in Chrome Browser
 https://profile.oracle.com/myprofile/account/create-account.jspx
 2. Automate dropdowns part of Oracle Registration Page in Firefox Browser
 https://profile.oracle.com/myprofile/account/create-account.jspx
