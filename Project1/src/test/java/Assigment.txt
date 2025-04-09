@@ -46,3 +46,5 @@ Tasks To Be Performed:
 8. TC-8 switch from 1st window to 0th window
 9. TC-9 after switching, get the title of page
 10. TC-10 close all windows of the browser
+
+---------------------------------Xpath Automation------------------------
