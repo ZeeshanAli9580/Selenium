@@ -74,7 +74,7 @@ public class Assigment2_a {
 
         // Close the browser
         Thread.sleep(2000);
-       // driver.quit();
+        driver.quit();
     }
 
 }
